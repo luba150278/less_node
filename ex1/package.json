@@ -1,0 +1,20 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index",
+    "dev": "node app/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Luba",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
